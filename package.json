@@ -1,0 +1,22 @@
+{
+  "name": "npm_dropdown-menu-package",
+  "version": "1.0.0",
+  "description": "dropdownmenu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ma-thyas/npm_packages_dropdow-menu_v2.git"
+  },
+  "keywords": [
+    "dropdown"
+  ],
+  "author": "Mathyas Autin <mathyasautin@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ma-thyas/npm_packages_dropdow-menu_v2/issues"
+  },
+  "homepage": "https://github.com/Ma-thyas/npm_packages_dropdow-menu_v2#readme"
+}
